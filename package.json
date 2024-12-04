@@ -1,0 +1,23 @@
+{
+  "name": "accessibility-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lainshiHenry/accessibility-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lainshiHenry/accessibility-testing/issues"
+  },
+  "homepage": "https://github.com/lainshiHenry/accessibility-testing#readme",
+  "devDependencies": {
+    "@axe-core/watcher": "^3.16.1",
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.10.1"
+  }
+}
